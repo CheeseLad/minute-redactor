@@ -1,0 +1,1 @@
+cat ./2023-2024/semester-2/redacted/20*.md >> 2023-2024-semester-2.md
